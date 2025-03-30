@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Agnishwar Raychaudhuri! 👋</h1>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
@@ -8,28 +7,27 @@
 ---
 
 ## 🧑‍💻 About Me
-<table width="100%">
-  <tr>
-    <td width="60%" align="left" valign="top">
-      <ul>
-        <li>🎓 Data Science student passionate about AI, ML, and all things Data</li>
-        <li>🔭 Currently working on enhancing my skills in Augmented Analytics and Cloud-Native Data Science Frameworks</li>
-        <li>👯 Looking to collaborate on innovative projects that make a difference</li>
-        <li>💬 Ask me about AI-ML, Data Science, or anything tech-related!</li>
-        <li>⚡ Fun fact: I'm a tech-savvy innovator who can juggle AI research, quiz mastering, and panel discussions - all while coding my way through challenges like a pro</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://www.kaggle.com" target="_blank">
-        <img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" width="250">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
+<details>
+  <summary>🛠️ Click to expand</summary>
+  <table width="100%">
+    <tr>
+      <td width="60%" align="left" valign="top">
+        <ul>
+          <li>🎓 Data Science student passionate about AI, ML, and all things Data</li>
+          <li>🔭 Currently working on enhancing my skills in Augmented Analytics and Cloud-Native Data Science Frameworks</li>
+          <li>👯 Looking to collaborate on innovative projects that make a difference</li>
+          <li>💬 Ask me about AI-ML, Data Science, or anything tech-related!</li>
+          <li>⚡ Fun fact: I'm a tech-savvy innovator who can juggle AI research, quiz mastering, and panel discussions - all while coding my way through challenges like a pro</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <a href="https://www.kaggle.com">
+          <img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" width="250">
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
@@ -85,20 +83,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=radical" alt="Agnishwar's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=radical" alt="Agnishwar's Top Languages" width="48%"/>
+  <a href="https://github.com/agnishwarr">
+    <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=tokyonight" width="48%">
+  </a>
+  <a href="https://github.com/agnishwarr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=tokyonight" width="48%">
+  </a>
 </div>
 
 ---
 
-### 🚀 GitHub Streak Stats
+## 🚀 GitHub Streak Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=agnishwarr&theme=radical" width="90%"/>
 </div>
 
 ---
 
-### 📌 GitHub Activity Graph
+## 📌 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnishwarr&theme=react-dark&area=true&hide_border=true" width="90%"/>
 </div>
