@@ -165,7 +165,15 @@
   <a href="https://docs.google.com/document/d/1rSRe0WfCHXzVeSslzGfgrR_KeNb6Zt07CwWw5aWNFM4/edit?tab=t.0">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
+  <a href="mailto:agnishwar73@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:agnishwar.raychaudhuri22@st.niituniversity.in">
+    <img src="https://img.shields.io/badge/University_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </div>
+
+
 
 ---
 
