@@ -59,7 +59,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agnishwarr&theme=radical)](https://git.io/streak-stats)
 
 ### 📌 GitHub Activity Graph
-[![Agnishwar's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=agnishwarr&theme=radical)](https://github.com/agnishwarr)
+![Snake Animation](github-contribution-grid-snake.svg)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnishwarraychaudhuri/)
