@@ -80,6 +80,53 @@
 
 ---
 
+## 🏆 Projects
+
+### [Diabetes Prediction Based on AI-ML Techniques](https://github.com/agnishwarr/Diabetis_Detection_R-D.git)
+- A comprehensive project that harnesses sophisticated AI-ML algorithms to analyze multidimensional patient data for accurate early diabetes prediction.
+- **Technologies Used:** Python, Scikit-Learn, TensorFlow, Pandas, NumPy.
+- **Key Features:**
+  - Uses machine learning models for predictive analytics.
+  - Implements feature selection and data preprocessing for better accuracy.
+  - Provides visualization tools to interpret prediction results.
+
+### [Mean Time To Failure of a Coherent System](https://github.com/agnishwarr/Mean_Time_To_Fail_NURAP.git)
+- Analyzes a special coherent system with exchangeable components where, upon system failure, a standby component activates to restore functionality with the remaining operational components.
+- **Technologies Used:** MATLAB, Python (SciPy, NumPy), Reliability Engineering Concepts.
+- **Key Features:**
+  - Calculates and models system failure probability.
+  - Implements statistical methods to evaluate reliability.
+  - Simulates different failure scenarios for system assessment.
+
+### [Automated Credit Scoring System using ML](https://github.com/NotYC/ML-integrated-CreditScoring.git)
+- A web-based application that uses machine learning to automate credit scoring by analyzing financial and behavioral data to predict creditworthiness for financial institutions and individual users.
+- **Technologies Used:** MERN Stack (MongoDB, Express.js, React, Node.js), Python (Scikit-Learn, Pandas), Docker, CI/CD.
+- **Key Features:**
+  - Real-time credit score computation based on multiple data inputs.
+  - Secure authentication and user data encryption.
+  - Interactive dashboards for financial insights.
+
+### [Application of Metaheuristic Optimization Techniques to Solve TSP](https://github.com/agnishwarr/TSP_throughMetaHeuristicOptimization.git)
+- Implements Ant Colony Optimization, Simulated Annealing, and Genetic Algorithm approaches to solve the Traveling Salesman Problem and compares the performance of each method.
+- **Technologies Used:** Python, NetworkX, Matplotlib, SciPy.
+- **Key Features:**
+  - Benchmarks multiple optimization techniques.
+  - Visualizes the best path found by each algorithm.
+  - Performance comparison with real-world datasets.
+
+### [AI Deep Q-Learning for Lunar Landing](https://github.com/agnishwarr/LunarLanding.git)
+- This project implements a Deep Q-Learning (DQN) agent to solve the Lunar Lander environment from Gymnasium, allowing an AI model to autonomously land a spaceship on the moon.
+- **Technologies Used:** Python, PyTorch, Gymnasium, NumPy, Collections, Matplotlib, PIL.
+- **Key Features:**
+  - **Environment Simulation:** The Lunar Lander environment simulates a spacecraft attempting to land on the lunar surface with rewards for successful landing and penalties for crashing.
+  - **DQN Agent:** Utilizes a neural network to approximate the optimal Q-function, determining the best actions for the AI model.
+  - **Experience Replay:** Stores and learns from past experiences using a memory buffer to improve training stability.
+  - **Target Network:** A separate target network helps stabilize training by periodically updating its parameters.
+  - **Exploration-Exploitation Balance:** Uses an epsilon-greedy strategy to shift behavior from exploration to exploitation over time.
+  - **Training Process:** The agent is trained over multiple episodes, gradually improving its landing performance through reinforcement learning.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
