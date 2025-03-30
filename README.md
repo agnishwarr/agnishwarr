@@ -1,32 +1,78 @@
+## Hello, I'm Agnishwar Raychaudhuri! 👋
 
-<h1 align="center">Hi 👋, I'm Agnishwar Raychaudhuri</h1>
-<h3 align="center">Results-driven, technically versatile individual aspiring to excel as a Data Scientist and AI-ML Engineer. Passionate about exploring AI-driven solutions to real-world problems and transforming complex data into meaningful insights. Actively engaged in research and projects that apply AI, ML, and Data Science techniques to practical scenarios. Strong commitment to continuous learning and staying updated on emerging technologies. Seeking opportunities to apply my skills in AI-ML development, data-driven decision-making, and problem-solving to contribute effectively to innovative projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agnishwarr&label=Profile%20views&color=0e75b6&style=flat" alt="agnishwarr" /> </p>
+## 🧑‍💻 About Me
+- 🎓 Data Science student passionate about AI, ML, and all things Data
+- 🔭 Currently working on enhancing my skills in Augmented Analytics and Cloud-Native Data Science Frameworks
+- 👯 Looking to collaborate on innovative projects that make a difference
+- 💬 Ask me about AI-ML, Data Science or anything tech-related!
+- ⚡ Fun fact: I'm a tech-savvy innovator who can juggle AI research, quiz mastering, and panel discussions - all while coding my way through challenges like a pro
 
-- 🌱 I’m currently learning **Augmented Analytics and Cloud-Native Data Science Frameworks**
+## 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/agnishwarr](https://github.com/agnishwarr)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 💬 Ask me about **AI,ML and Data Science**
+### 📊 Data Science & ML Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-- 📫 How to reach me **agnishwar.raychaudhuri22@st.niituniversity.in**
+### 🌐 Web Development & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rSRe0WfCHXzVeSslzGfgrR_KeNb6Zt07CwWw5aWNFM4/edit?usp=sharing](https://docs.google.com/document/d/1rSRe0WfCHXzVeSslzGfgrR_KeNb6Zt07CwWw5aWNFM4/edit?usp=sharing)
+### 🗄️ Databases & Big Data
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-0E1128?style=for-the-badge&logo=apache&logoColor=white)
 
-- ⚡ Fun fact **I'm a tech-savvy innovator who can juggle AI research, quiz mastering, and panel discussions - all while coding my way through challenges like a pro**
+### 🛠️ Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/agnishwarraychaudhuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agnishwarraychaudhuri" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/agnishwarraychaudhuri/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/agnishwarraychaudhuri/?hl=en" height="30" width="40" /></a>
-</p>
+### ☁️ Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnishwarr&show_icons=true&locale=en&layout=compact" alt="agnishwarr" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=radical" alt="Agnishwar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=radical" alt="Agnishwar's Top Languages" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnishwarr&" alt="agnishwarr" /></p>
+### 🚀 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agnishwarr&theme=radical)](https://git.io/streak-stats)
 
+### 📌 GitHub Activity Graph
+[![Agnishwar's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=agnishwarr&theme=radical)](https://github.com/agnishwarr)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnishwarraychaudhuri/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnishwarraychaudhuri/?hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://agnishwar.dev)
+
+## 📈 Visitor Count
+<div align="center">
+  <img src="https://profile-counter.glitch.me/agnishwarr/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech!</b>
+</div>
