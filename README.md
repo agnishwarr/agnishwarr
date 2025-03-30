@@ -8,23 +8,28 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<table>
+<table width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" align="left" valign="top">
       <ul>
         <li>🎓 Data Science student passionate about AI, ML, and all things Data</li>
         <li>🔭 Currently working on enhancing my skills in Augmented Analytics and Cloud-Native Data Science Frameworks</li>
         <li>👯 Looking to collaborate on innovative projects that make a difference</li>
-        <li>💬 Ask me about AI-ML, Data Science or anything tech-related!</li>
+        <li>💬 Ask me about AI-ML, Data Science, or anything tech-related!</li>
         <li>⚡ Fun fact: I'm a tech-savvy innovator who can juggle AI research, quiz mastering, and panel discussions - all while coding my way through challenges like a pro</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" width="250"/>
+      <a href="https://www.kaggle.com" target="_blank">
+        <img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" width="250">
+      </a>
     </td>
   </tr>
 </table>
+
+
+
+
 
 ---
 
