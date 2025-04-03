@@ -138,14 +138,6 @@
   </a>
 </div>
 
----
-
-## 🚀 GitHub Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=agnishwarr&theme=radical" width="90%"/>
-</div>
-
----
 
 ## 📌 GitHub Activity Graph
 <div align="center">
