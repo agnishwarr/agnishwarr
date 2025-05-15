@@ -85,7 +85,7 @@
 
 ## 🏆 Projects
 
-### [Diabetes Prediction Based on AI-ML Techniques]
+### Diabetes Prediction Based on AI-ML Techniques
 - A comprehensive project that harnesses sophisticated AI-ML algorithms to analyze multidimensional patient data for accurate early diabetes prediction.
 - **Technologies Used:** Python, Scikit-Learn, TensorFlow, Pandas, NumPy.
 - **Key Features:**
@@ -93,7 +93,7 @@
   - Implements feature selection and data preprocessing for better accuracy.
   - Provides visualization tools to interpret prediction results.
 
-### [Mean Time To Failure of a Coherent System]
+### Mean Time To Failure of a Coherent System
 - Analyzes a special coherent system with exchangeable components where, upon system failure, a standby component activates to restore functionality with the remaining operational components.
 - **Technologies Used:** MATLAB, Python (SciPy, NumPy), Reliability Engineering Concepts.
 - **Key Features:**
@@ -101,7 +101,7 @@
   - Implements statistical methods to evaluate reliability.
   - Simulates different failure scenarios for system assessment.
 
-### [Automated Credit Scoring System using ML]
+### Automated Credit Scoring System using ML
 - A web-based application that uses machine learning to automate credit scoring by analyzing financial and behavioral data to predict creditworthiness for financial institutions and individual users.
 - **Technologies Used:** MERN Stack (MongoDB, Express.js, React, Node.js), Python (Scikit-Learn, Pandas), Docker, CI/CD.
 - **Key Features:**
@@ -109,7 +109,7 @@
   - Secure authentication and user data encryption.
   - Interactive dashboards for financial insights.
 
-### [Application of Metaheuristic Optimization Techniques to Solve TSP]
+### Application of Metaheuristic Optimization Techniques to Solve TSP
 - Implements Ant Colony Optimization, Simulated Annealing, and Genetic Algorithm approaches to solve the Traveling Salesman Problem and compares the performance of each method.
 - **Technologies Used:** Python, NetworkX, Matplotlib, SciPy.
 - **Key Features:**
