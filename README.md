@@ -127,7 +127,7 @@
   - **Target Network:** A separate target network helps stabilize training by periodically updating its parameters.
   - **Exploration-Exploitation Balance:** Uses an epsilon-greedy strategy to shift behavior from exploration to exploitation over time.
   - **Training Process:** The agent is trained over multiple episodes, gradually improving its landing performance through reinforcement learning.
-  - 
+    
 ### [Agentic AI Travel Planner](https://github.com/agnishwarr/Agentic_AI_TravelPlanner.git)
 - This project is an AI-powered travel itinerary planner built with Streamlit that creates day-wise trip plans based on user input and optionally emails them. It demonstrates the modular integration of AI capabilities and automation in a real-world utility app.
 - **Technologies Used:** Python, Streamlit, SMTP (Gmail), dotenv, Jinja2, LangChain, OpenAI API.
