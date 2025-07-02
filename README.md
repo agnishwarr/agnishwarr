@@ -167,7 +167,7 @@
   <a href="https://www.instagram.com/agnishwarraychaudhuri/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[https://docs.google.com/document/d/1rSRe0WfCHXzVeSslzGfgrR_KeNb6Zt07CwWw5aWNFM4/edit?tab=t.0"]
+  <a href="https://docs.google.com/document/d/1zKEYmEnUU-kH4bGjPJYoFqhDcXWRfvwH/edit?usp=sharing&ouid=104529778936190335049&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
   <a href="mailto:agnishwar73@gmail.com">
