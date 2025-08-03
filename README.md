@@ -85,27 +85,17 @@
 
 ## 🏆 Projects
 
-# A Stacked Machine Learning Framework for Type 2 Diabetes Prediction Using Clinical and Behavioral Data
+### A Stacked Machine Learning Framework for Type 2 Diabetes Prediction Using Clinical and Behavioral Data
 
-## Overview
-A machine learning project designed for early prediction of Type 2 Diabetes Mellitus by integrating behavioral and clinical health data using a stacked ensemble approach.
-
-## Technologies Used
-Python, Scikit-Learn, TensorFlow, XGBoost, Pandas, NumPy
-
-## Key Features
-- **Stacked Ensemble Model:**  
+- A predictive model for early detection of Type 2 Diabetes Mellitus using a stacked ensemble approach that integrates behavioral and clinical health data.  
+- **Technologies Used:** Python, Scikit-Learn, TensorFlow, XGBoost, Pandas, NumPy  
+- **Key Features:**  
   - Random Forest on behavioral data (BRFSS)  
   - XGBoost on clinical data (PIMA & FGHDD)  
-  - Meta-level XGBoost classifier combining both  
-- **Accuracy:** Achieved 89% overall prediction accuracy  
-- **Behavioral Impact:** Behavioral features contributed 72% to final decision  
-- **Data Fusion:** Combines heterogeneous sources for a holistic view  
-- **Interpretability:** Integrated visual tools and SHAP for feature importance  
-
-## Highlights
-- Scalable and interpretable model for real-world healthcare deployment  
-- Emphasizes lifestyle factors in early diagnosis  
+  - Meta-level XGBoost classifier for final prediction  
+  - Achieved 89% overall accuracy  
+  - Behavioral features contributed 72% to predictions  
+  - Combines heterogeneous data sources for holistic diagnosis  
 
 
 ### Mean Time To Failure of a Coherent System
