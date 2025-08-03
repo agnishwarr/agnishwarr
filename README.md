@@ -66,7 +66,7 @@
 ### 🛠️ Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
@@ -85,13 +85,28 @@
 
 ## 🏆 Projects
 
-### Diabetes Prediction Based on AI-ML Techniques
-- A comprehensive project that harnesses sophisticated AI-ML algorithms to analyze multidimensional patient data for accurate early diabetes prediction.
-- **Technologies Used:** Python, Scikit-Learn, TensorFlow, Pandas, NumPy.
-- **Key Features:**
-  - Uses machine learning models for predictive analytics.
-  - Implements feature selection and data preprocessing for better accuracy.
-  - Provides visualization tools to interpret prediction results.
+# A Stacked Machine Learning Framework for Type 2 Diabetes Prediction Using Clinical and Behavioral Data
+
+## Overview
+A machine learning project designed for early prediction of Type 2 Diabetes Mellitus by integrating behavioral and clinical health data using a stacked ensemble approach.
+
+## Technologies Used
+Python, Scikit-Learn, TensorFlow, XGBoost, Pandas, NumPy
+
+## Key Features
+- **Stacked Ensemble Model:**  
+  - Random Forest on behavioral data (BRFSS)  
+  - XGBoost on clinical data (PIMA & FGHDD)  
+  - Meta-level XGBoost classifier combining both  
+- **Accuracy:** Achieved 89% overall prediction accuracy  
+- **Behavioral Impact:** Behavioral features contributed 72% to final decision  
+- **Data Fusion:** Combines heterogeneous sources for a holistic view  
+- **Interpretability:** Integrated visual tools and SHAP for feature importance  
+
+## Highlights
+- Scalable and interpretable model for real-world healthcare deployment  
+- Emphasizes lifestyle factors in early diagnosis  
+
 
 ### Mean Time To Failure of a Coherent System
 - Analyzes a special coherent system with exchangeable components where, upon system failure, a standby component activates to restore functionality with the remaining operational components.
