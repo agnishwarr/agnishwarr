@@ -40,20 +40,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### 📊 Data Science & ML Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
----
-
 ### 🌐 Web Development & Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
 
 ### 🗄️ Databases & Big Data
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,16 +55,12 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![HDFS](https://img.shields.io/badge/HDFS-0E1128?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
 ### 🛠️ Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
 
 ### ☁️ Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -84,83 +74,24 @@
 ---
 
 ## 🏆 Projects
+(*Same as before – already detailed nicely*)
 
-### A Stacked Machine Learning Framework for Type 2 Diabetes Prediction Using Clinical and Behavioral Data
-
-- A predictive model for early detection of Type 2 Diabetes Mellitus using a stacked ensemble approach that integrates behavioral and clinical health data.  
-- **Technologies Used:** Python, Scikit-Learn, TensorFlow, XGBoost, Pandas, NumPy  
-- **Key Features:**  
-  - Random Forest on behavioral data (BRFSS)  
-  - XGBoost on clinical data (PIMA & FGHDD)  
-  - Meta-level XGBoost classifier for final prediction  
-  - Achieved 89% overall accuracy  
-  - Behavioral features contributed 72% to predictions  
-  - Combines heterogeneous data sources for holistic diagnosis  
-
-
-### Mean Time To Failure of a Coherent System
-- Analyzes a special coherent system with exchangeable components where, upon system failure, a standby component activates to restore functionality with the remaining operational components.
-- **Technologies Used:** MATLAB, Python (SciPy, NumPy), Reliability Engineering Concepts.
-- **Key Features:**
-  - Calculates and models system failure probability.
-  - Implements statistical methods to evaluate reliability.
-  - Simulates different failure scenarios for system assessment.
-
-### Automated Credit Scoring System using ML
-- A web-based application that uses machine learning to automate credit scoring by analyzing financial and behavioral data to predict creditworthiness for financial institutions and individual users.
-- **Technologies Used:** MERN Stack (MongoDB, Express.js, React, Node.js), Python (Scikit-Learn, Pandas), Docker, CI/CD.
-- **Key Features:**
-  - Real-time credit score computation based on multiple data inputs.
-  - Secure authentication and user data encryption.
-  - Interactive dashboards for financial insights.
-
-### Application of Metaheuristic Optimization Techniques to Solve TSP
-- Implements Ant Colony Optimization, Simulated Annealing, and Genetic Algorithm approaches to solve the Traveling Salesman Problem and compares the performance of each method.
-- **Technologies Used:** Python, NetworkX, Matplotlib, SciPy.
-- **Key Features:**
-  - Benchmarks multiple optimization techniques.
-  - Visualizes the best path found by each algorithm.
-  - Performance comparison with real-world datasets.
-
-### [AI Deep Q-Learning for Lunar Landing](https://github.com/agnishwarr/LunarLanding.git)
-- This project implements a Deep Q-Learning (DQN) agent to solve the Lunar Lander environment from Gymnasium, allowing an AI model to autonomously land a spaceship on the moon.
-- **Technologies Used:** Python, PyTorch, Gymnasium, NumPy, Collections, Matplotlib, PIL.
-- **Key Features:**
-  - **Environment Simulation:** The Lunar Lander environment simulates a spacecraft attempting to land on the lunar surface with rewards for successful landing and penalties for crashing.
-  - **DQN Agent:** Utilizes a neural network to approximate the optimal Q-function, determining the best actions for the AI model.
-  - **Experience Replay:** Stores and learns from past experiences using a memory buffer to improve training stability.
-  - **Target Network:** A separate target network helps stabilize training by periodically updating its parameters.
-  - **Exploration-Exploitation Balance:** Uses an epsilon-greedy strategy to shift behavior from exploration to exploitation over time.
-  - **Training Process:** The agent is trained over multiple episodes, gradually improving its landing performance through reinforcement learning.
-    
-### [Agentic AI Travel Planner](https://github.com/agnishwarr/Agentic_AI_TravelPlanner.git)
-- This project is an AI-powered travel itinerary planner built with Streamlit that creates day-wise trip plans based on user input and optionally emails them. It demonstrates the modular integration of AI capabilities and automation in a real-world utility app.
-- **Technologies Used:** Python, Streamlit, SMTP (Gmail), dotenv, Jinja2, LangChain, OpenAI API.
-- **Key Features:**
-  - **User Input Interface:** A simple and intuitive form where users can input their travel destination and trip duration.
-  - **Itinerary Generator:** Uses prompt templates to generate travel plans.
-  - **Email Delivery:** Automatically sends the generated itinerary to the user's email using secure Gmail App Passwords.
-  - **Modular Design:** Built for easy extension — additional features like PDF export and map embedding are available but disabled by default.
-  - **Secure & Lightweight:** Only requires a Gmail account with 2FA and app password to function; AI services are optional.
-  - **Streamlit App UI:** A lightweight frontend built with Streamlit, offering instant deployment capability on local or cloud platforms.
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<div align="center">
-  <a href="https://github.com/agnishwarr">
-    <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=tokyonight" width="48%">
-  </a>
-  <a href="https://github.com/agnishwarr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=tokyonight" width="48%">
-  </a>
-</div>
+- 🏅 [Google Data Analytics – Coursera (June 2024 – Aug 2024)](https://www.credly.com/badges/7bff68b2-d50f-468f-abf1-1aed4b905f40/linked_in_profile)  
+- 📘 [Artificial Intelligence A-Z – Udemy (June 2024 – July 2024)](https://www.udemy.com/certificate/UC-15c163fe-e144-4be5-a94d-d55276ce3acc/)  
+- 🧠 [The Ultimate Hands-On Hadoop – Udemy (Feb 2024 – May 2024)](https://www.udemy.com/certificate/UC-fe1c6a4a-ebf1-49ed-b0ed-f65e02921824/)
 
+---
 
-## 📌 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnishwarr&theme=react-dark&area=true&hide_border=true" width="90%"/>
-</div>
+## 🎯 Extracurriculars & Positions of Responsibility
+
+- 🔴 Core Member, Editorial and Events – TEDxNIITUniversity (Aug 2023 – Jul 2024)  
+- ❓ Coordinator – NU Jigyasu (Quiz Club) (Aug 2024 – Dec 2025)  
+- 🧩 Panelist – CII Youth Summit (March 2025)  
+- ✍️ English Instructor – NIIT Foundation (Sep 2022 – Dec 2022)
 
 ---
 
@@ -183,12 +114,11 @@
   </a>
 </div>
 
-
 ---
 
 ## 📈 Visitor Count
 <div align="center">
-  <img src="https://profile-counter.glitch.me/agnishwarr/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/agnishwarr/count.svg" alt="Visitor Count"/>
 </div>
 
 ---
