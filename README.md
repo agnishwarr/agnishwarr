@@ -74,7 +74,67 @@
 ---
 
 ## 🏆 Projects
-(*Same as before – already detailed nicely*)
+
+### A Stacked Machine Learning Framework for Type 2 Diabetes Prediction Using Clinical and Behavioral Data
+
+- A predictive model for early detection of Type 2 Diabetes Mellitus using a stacked ensemble approach that integrates behavioral and clinical health data.  
+- **Technologies Used:** Python, Scikit-Learn, TensorFlow, XGBoost, Pandas, NumPy  
+- **Key Features:**  
+  - Random Forest on behavioral data (BRFSS)  
+  - XGBoost on clinical data (PIMA & FGHDD)  
+  - Meta-level XGBoost classifier for final prediction  
+  - Achieved 89% overall accuracy  
+  - Behavioral features contributed 72% to predictions  
+  - Combines heterogeneous data sources for holistic diagnosis  
+
+
+### Mean Time To Failure of a Coherent System
+- Analyzes a special coherent system with exchangeable components where, upon system failure, a standby component activates to restore functionality with the remaining operational components.
+- **Technologies Used:** MATLAB, Python (SciPy, NumPy), Reliability Engineering Concepts.
+- **Key Features:**
+  - Calculates and models system failure probability.
+  - Implements statistical methods to evaluate reliability.
+  - Simulates different failure scenarios for system assessment.
+
+### Automated Credit Scoring System using ML
+- A web-based application that uses machine learning to automate credit scoring by analyzing financial and behavioral data to predict creditworthiness for financial institutions and individual users.
+- **Technologies Used:** MERN Stack (MongoDB, Express.js, React, Node.js), Python (Scikit-Learn, Pandas), Docker, CI/CD.
+- **Key Features:**
+  - Real-time credit score computation based on multiple data inputs.
+  - Secure authentication and user data encryption.
+  - Interactive dashboards for financial insights.
+
+### Application of Metaheuristic Optimization Techniques to Solve TSP
+- Implements Ant Colony Optimization, Simulated Annealing, and Genetic Algorithm approaches to solve the Traveling Salesman Problem and compares the performance of each method.
+- **Technologies Used:** Python, NetworkX, Matplotlib, SciPy.
+- **Key Features:**
+  - Benchmarks multiple optimization techniques.
+  - Visualizes the best path found by each algorithm.
+  - Performance comparison with real-world datasets.
+
+### [AI Deep Q-Learning for Lunar Landing](https://github.com/agnishwarr/LunarLanding.git)
+- This project implements a Deep Q-Learning (DQN) agent to solve the Lunar Lander environment from Gymnasium, allowing an AI model to autonomously land a spaceship on the moon.
+- **Technologies Used:** Python, PyTorch, Gymnasium, NumPy, Collections, Matplotlib, PIL.
+- **Key Features:**
+  - **Environment Simulation:** The Lunar Lander environment simulates a spacecraft attempting to land on the lunar surface with rewards for successful landing and penalties for crashing.
+  - **DQN Agent:** Utilizes a neural network to approximate the optimal Q-function, determining the best actions for the AI model.
+  - **Experience Replay:** Stores and learns from past experiences using a memory buffer to improve training stability.
+  - **Target Network:** A separate target network helps stabilize training by periodically updating its parameters.
+  - **Exploration-Exploitation Balance:** Uses an epsilon-greedy strategy to shift behavior from exploration to exploitation over time.
+  - **Training Process:** The agent is trained over multiple episodes, gradually improving its landing performance through reinforcement learning.
+    
+### [Agentic AI Travel Planner](https://github.com/agnishwarr/Agentic_AI_TravelPlanner.git)
+- This project is an AI-powered travel itinerary planner built with Streamlit that creates day-wise trip plans based on user input and optionally emails them. It demonstrates the modular integration of AI capabilities and automation in a real-world utility app.
+- **Technologies Used:** Python, Streamlit, SMTP (Gmail), dotenv, Jinja2, LangChain, OpenAI API.
+- **Key Features:**
+  - **User Input Interface:** A simple and intuitive form where users can input their travel destination and trip duration.
+  - **Itinerary Generator:** Uses prompt templates to generate travel plans.
+  - **Email Delivery:** Automatically sends the generated itinerary to the user's email using secure Gmail App Passwords.
+  - **Modular Design:** Built for easy extension — additional features like PDF export and map embedding are available but disabled by default.
+  - **Secure & Lightweight:** Only requires a Gmail account with 2FA and app password to function; AI services are optional.
+  - **Streamlit App UI:** A lightweight frontend built with Streamlit, offering instant deployment capability on local or cloud platforms.
+---
+
 
 ---
 
