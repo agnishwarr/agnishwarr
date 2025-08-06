@@ -176,10 +176,17 @@
 
 ---
 
-## 📈 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/agnishwarr/count.svg" alt="Visitor Count"/>
-</div>
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 👁️ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=agnishwarr&style=flat-square&color=brightgreen)
 
 ---
 
