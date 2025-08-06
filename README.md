@@ -174,19 +174,19 @@
   </a>
 </div>
 
----
+## 📌 GitHub Activity Graph
 
-
-## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnishwarr&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwarr&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnishwarr&theme=react-dark&area=true&hide_border=true" width="90%"/>
 </p>
 
 ---
 
-## 👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=agnishwarr&style=flat-square&color=brightgreen)
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agnishwarr&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
 ---
 
